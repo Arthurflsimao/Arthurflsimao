@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arthur Felix Latorre Simão</h1>
 <h3 align="center">I am currently an Information System student at SPTech School</h3>
-<img aling="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5f3f0e21adce7f7ad9f17e4d/1626127450282-67Y28J2KZAOUC0RM1H8G/coding+gif.gif">
+<img aling="right" alt="Coding" width="400" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurflsimao&label=Profile%20views&color=0e75b6&style=flat" alt="arthurflsimao" /> </p>
 
